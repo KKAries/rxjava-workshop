@@ -1,11 +1,9 @@
 package exercises;
 
-import classes.Automobile;
-import classes.IterableX;
+import myclasses.Automobile;
+import myclasses.IterableX;
 import java.awt.Color;
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class IterableXExercise {
 

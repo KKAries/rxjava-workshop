@@ -2,5 +2,4 @@ build
 target
 *.iml
 .idea
-classes
 out

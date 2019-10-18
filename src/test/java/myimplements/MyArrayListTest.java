@@ -1,8 +1,6 @@
 package myimplements;
 
-import classes.IterableX;
-import classes.myimplements.MyArrayList;
-import java.util.ArrayList;
+import myclasses.myimplements.MyArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Iterator;
